@@ -1,4 +1,4 @@
-# OOS 16 全亮度低频闪模块
+# OxygenOS 16 全亮度低频闪
 
 本 Magisk 模块通过修改 /my_region/etc/extension/com.oplus.oplus-feature.xml 文件，使 OxygenOS 16 的设置界面显示「全亮度低频闪」入口。
 
