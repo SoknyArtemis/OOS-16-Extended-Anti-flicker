@@ -1,4 +1,4 @@
-# OxygenOS 16 Full Brightness Low Flicker
+# OxygenOS 16 Extended Anti Flicker
 
 ## 📋 Module Introduction
 
